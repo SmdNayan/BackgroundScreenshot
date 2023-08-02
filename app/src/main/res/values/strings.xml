@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Screenshoot</string>
+    <string name="to_start_work_click_start_button">To start work click start button</string>
+    <string name="app_running">Your task is recording</string>
+</resources>

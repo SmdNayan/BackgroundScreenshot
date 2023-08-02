@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315356192506",
+    "project_id": "personal-7012d",
+    "storage_bucket": "personal-7012d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315356192506:android:5df92fe45b072ece6c3343",
+        "android_client_info": {
+          "package_name": "com.alexworld.screenshoot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315356192506-a5hr60g1lcrptpsuuci12rdp9o82l815.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuOaCE138Ym08Qk1PFEAeyd7VqJtApVLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315356192506-a5hr60g1lcrptpsuuci12rdp9o82l815.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
